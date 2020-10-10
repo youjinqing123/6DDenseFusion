@@ -7,8 +7,7 @@ object recognition and pose estimation pipeline to generate pose
 estimates with six degrees of freedom (6DoF) for bin picking,
 specifically targeting the suitability for challenging scenarios
 with texture-less, metallic parts in industrial environments. The
-pipeline is based on open source algorithms, combining Convo-
-lutional Neural Networks (CNNs) and feature-matching methods
+pipeline is based on open source algorithms, combining Convolutional Neural Networks (CNNs) and feature-matching methods
 to create an effective 6DoF pose estimate. We evaluate our
 approach on several industrial components using a articulated
 arm robot to guarantee a high level of comparability during
