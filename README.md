@@ -1,10 +1,10 @@
 # 6DDenseFusion
-#Training
+# Training
 In the /densefusion folder, run:
 
 ./experiments/scripts/train_poseownnet.sh
 
-#Evaluation
-In the /ma_densefusion folder, run:
+# Evaluation
+In the /densefusion folder, run:
 
 ./experiments/scripts/eval_poseownnet.sh
